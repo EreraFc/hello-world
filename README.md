@@ -1,3 +1,7 @@
 # hello-world
 Learning
-I am 21years student. Based in Zimbabwe 
+I am 21years old
+A student
+based 
+in
+Zimbabwe
